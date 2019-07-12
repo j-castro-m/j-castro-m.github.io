@@ -1,10 +1,11 @@
 # Recognitions
+- award: Google Cloud Platform Certified Associate Cloud Engineer
+  organization: Google Cloud Platform
+  year: 2018
+  summary: An Associate Cloud Engineer deploys applications, monitors operations, and manages enterprise solutions. This individual is able to use Google Cloud Console and the command-line interface to perform common platform-based tasks to maintain one or more deployed solutions that leverage Google-managed or self-managed services on Google Cloud.
+
 - award: CoMetS Track Best Paper
   organization: IEEE WETICE 2016 International Conference
   year: 2014
   summary: Awarded by the Best Paper in CoMetS track at WETICE 2016 International Conference
 
-- award: Google Cloud Platform Certified Associate Cloud Engineer
-  organization: Google Cloud Platform
-  year: 2018
-  summary: An Associate Cloud Engineer deploys applications, monitors operations, and manages enterprise solutions. This individual is able to use Google Cloud Console and the command-line interface to perform common platform-based tasks to maintain one or more deployed solutions that leverage Google-managed or self-managed services on Google Cloud.
